@@ -23,7 +23,7 @@ This project is a data science project that includes the full machine learing wo
   - Data analysis using **Pandas**
   - Data visualization with **Matplotlib** and **Seaborn**
   - Machine learning using **scikit-learn**
-  - Bulding and Interprting cluster analysis **Sklearn.cluster**
+  - Bulding and Interprting a cluster using **Sklearn.cluster**
   - Writing clean and documented Python code
 
  ---
@@ -37,4 +37,4 @@ This project is a data science project that includes the full machine learing wo
  - Income (Target variable)
  - SpendingScore (Target variable)
 
-   [Download the dataset] (https://belhaven.instructure.com/courses/48087/files/4017213/download?download_frd=1
+   [Download the dataset] (https://belhaven.instructure.com/courses/48087/files/4017213/download?download_frd=1)
